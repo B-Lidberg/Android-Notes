@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "449293a60d580561",
+        "id": "9bda257e0a9429fa",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a18af8f41ed9a68d",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,12 +86,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "449293a60d580561",
+  "active": "9bda257e0a9429fa",
   "lastOpenFiles": [
-    "Kotlin/Kotlin Overview.md",
-    "Jetpack Compose/Compose Overview.md",
-    "Jetpack Compose/Compose Accessibility.md",
     "Landing Page.md",
+    "Jetpack Compose/Compose Overview.md",
+    "Kotlin/Kotlin Overview.md",
+    "Jetpack Compose/Compose Accessibility.md",
     "Kotlin/Untitled.md",
     "Jetpack Compose/Untitled.md",
     "Untitled.md"

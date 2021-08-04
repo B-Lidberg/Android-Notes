@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian Reference.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Reference.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "d3476c0b65bea6b4",
   "lastOpenFiles": [
-    "Obsidian Reference.md",
     "README.md",
+    "Obsidian Reference.md",
     "Untitled.md",
     "Landing Page.md",
     "Jetpack Compose/Compose Overview.md",

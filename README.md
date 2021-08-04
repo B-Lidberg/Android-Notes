@@ -19,12 +19,21 @@ Theres also a graph view for a great visualization seeing how everything connect
 Here is a great YouTube Playlist to get started with [**Obsidian**](https://www.youtube.com/watch?v=QgbLb6QCK88&list=RDCMUC85D7ERwhke7wVqskV_DZUA&index=1)
 
 ---
-### Section to be used in Obsidian
+### Section to be used in Obsidian #reference
 
 #### Overview Sections:
-[[Compose Overview]]
+[[Compose Reference]]
 All about Jetpack Compose!
 
-[[Kotlin Overview]]
+[[Kotlin Reference]]
 Kotlin, Kotlin, Kotlin!
+
+[[Fundamentals Reference]]
+Android Fundamentals
+
+[[Libraries Reference]]
+Popular / Common Libraries
+
+[[Source Reference]]
+People, Articles, Books, etc..
 

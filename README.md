@@ -4,10 +4,16 @@ Welcome to my Android Notes. I'll be building this repository up overtime to con
 
 If you have any resource you would like to add, feel free to create an issue or pull request. 
 
+--- 
+### Easy Access:
+*(one way :)* )
+copy GitHub CLI `gh repo clone B-Lidberg/Android-Notes` and paste in Command Line in whatever folder you'd like. Then open the folder as vault inside of Obsidian. Ta-dah!
+
+You can also fork a copy, but it would be great to have one source that people can look at. Issues , Pull Requests would be great! Anyone can do it, this repo is just a bunch of notes, so you can start small with even a simple link / reference added. 
 
 ---
 
-## What is [Obsidian.md](https://obsidian.md/)? 
+### What is [Obsidian.md](https://obsidian.md/)? 
 
 Obsidian is a powerful **knowledge base** on top of  
 a **local folder** of plain text Markdown files. 

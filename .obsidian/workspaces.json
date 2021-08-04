@@ -1,0 +1,106 @@
+{
+  "workspaces": {
+    "Base": {
+      "main": {
+        "id": "65ef2f243159d422",
+        "type": "split",
+        "children": [
+          {
+            "id": "d3476c0b65bea6b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Reference.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0cec0a9f26979b04",
+        "type": "split",
+        "children": [
+          {
+            "id": "09de6e7fcca4b83e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f51c5d60741aacdc",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1fc4d732c49b98db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "a18af8f41ed9a68d",
+        "type": "split",
+        "children": [
+          {
+            "id": "83a6f2378d29f450",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81ad3b493475375d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian Reference.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "add3d5719019f00a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "d3476c0b65bea6b4"
+    }
+  },
+  "active": "BaseWorkspace"
+}

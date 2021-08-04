@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "Obsidian Reference.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,23 +78,35 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "add3d5719019f00a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d3476c0b65bea6b4",
   "lastOpenFiles": [
+    "Obsidian Reference.md",
     "README.md",
+    "Untitled.md",
     "Landing Page.md",
     "Jetpack Compose/Compose Overview.md",
     "Kotlin/Kotlin Overview.md",
     "Jetpack Compose/Compose Accessibility.md",
     "Kotlin/Untitled.md",
-    "Jetpack Compose/Untitled.md",
-    "Untitled.md"
+    "Jetpack Compose/Untitled.md"
   ]
 }

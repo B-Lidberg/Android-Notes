@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "65ef2f243159d422",
+    "type": "split",
+    "children": [
+      {
+        "id": "449293a60d580561",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cec0a9f26979b04",
+    "type": "split",
+    "children": [
+      {
+        "id": "09de6e7fcca4b83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f51c5d60741aacdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fc4d732c49b98db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a18af8f41ed9a68d",
+    "type": "split",
+    "children": [
+      {
+        "id": "83a6f2378d29f450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ad3b493475375d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "449293a60d580561",
+  "lastOpenFiles": [
+    "Kotlin/Kotlin Overview.md",
+    "Jetpack Compose/Compose Overview.md",
+    "Jetpack Compose/Compose Accessibility.md",
+    "Landing Page.md",
+    "Kotlin/Untitled.md",
+    "Jetpack Compose/Untitled.md",
+    "Untitled.md"
+  ]
+}

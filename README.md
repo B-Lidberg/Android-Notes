@@ -28,18 +28,18 @@ Here is a great YouTube Playlist to get started with [**Obsidian**](https://www.
 ### Section to be used in Obsidian #reference
 
 #### Overview Sections:
-[[Compose Reference]]
+[[Jetpack Compose]]
 All about Jetpack Compose!
 
-[[Kotlin Reference]]
+[[Kotlin]]
 Kotlin, Kotlin, Kotlin!
 
-[[Fundamentals Reference]]
+[[Fundamentals]]
 Android Fundamentals
 
 [[Libraries Reference]]
 Popular / Common Libraries
 
-[[Source Reference]]
+[[Source]]
 People, Articles, Books, etc..
 

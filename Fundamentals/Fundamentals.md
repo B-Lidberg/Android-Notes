@@ -30,6 +30,3 @@
 ### [[Understanding XML]]
 
 ### [[Popular Resources]]
-- [[StackOverflow]]
-- [[Github]]
-- [[KotlinSlack]]

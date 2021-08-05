@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1ae64efbfcc76b",
+        "id": "f6d1391e16d2bcde",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jetpack Compose/Migration/RecyclerView in Compose.md",
-            "mode": "preview"
+            "file": "Jetpack Compose/Migration to Compose.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#overview",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jetpack Compose/Migration/RecyclerView in Compose.md",
+                "file": "Jetpack Compose/Migration to Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f1ae64efbfcc76b",
+  "active": "f6d1391e16d2bcde",
   "lastOpenFiles": [
-    "Jetpack Compose/Migration/RecyclerView in Compose.md",
-    "Jetpack Compose/Compose Reference.md",
-    "Jetpack Compose/Compose Accessibility.md",
     "Jetpack Compose/Migration to Compose.md",
-    "Untitled.md",
-    "Jetpack Compose/Untitled.md",
-    "README.md",
+    "Jetpack Compose/Migration/ComposeView.md",
+    "Jetpack Compose/Migration/AbstractComposeView.md",
+    "Jetpack Compose/Migration/Untitled.md",
+    "Sources/Compose Academy.md",
+    "Sources/Fanny Demey.md",
+    "Sources/Source.md",
     "Sources/Untitled.md",
-    "Sources/Untitled 1.md",
-    "Sources/People/Fanny Demey.md"
+    "Jetpack Compose/Migration/Untitled 1.md",
+    "Jetpack Compose/Migration/RecyclerView in Compose.md"
   ]
 }

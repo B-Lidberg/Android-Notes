@@ -1,7 +1,8 @@
 # Obsidian References used in Project #reference
+## [Obsidian's Format Documentation](https://help.obsidian.md/How+to/Format+your+notes)
 
 ### [[README]]  -> Backlinks
-- Can be used to link to other files in vault and can create a file if one with name does not exist
+- Can be used to link to other files in vault and can create a file if one with name does not exist while holding ctrl
 - Right side of screen there is a bar that can show `Linked mentions`
 
 ### [Github Link](https://github.com/B-Lidberg/Android-Notes) -> External Link
@@ -20,3 +21,13 @@
 	1. sub number
 - Bullet example
 	- sub bullet
+
+
+### Code Block
+```kts
+val example: String = "Sample"
+```
+or
+```kt
+val example: String = "Sample"
+```

@@ -1,8 +1,8 @@
-# Migrating From XML to Compose
+# Migrating From XML to Jetpack Compose #Jetpack-Compose
 
 
 ## Advice:
-Jetpack Compose is designed to work with the established view-based UI approach. If you're building a new app, the best option might be to implement your entire UI with Compose. But if you're modifying an existing app, you might not want to fully migrate your app all at once. Instead, you can combine Compose with your existing UI design implementation.
+[[Jetpack Compose]] is designed to work with the established view-based UI approach. If you're building a new app, the best option might be to implement your entire UI with Compose. But if you're modifying an existing app, you might not want to fully migrate your app all at once. Instead, you can combine Compose with your existing UI design implementation.
 
 There are two main ways you can **integrate Compose with a view-based UI**:
 
@@ -25,5 +25,6 @@ These approaches assume each screen is self-contained, but it's also possible to
 #### Codelab:
 - [Migrating To Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-migration#0)
 
-
-#Jetpack-Compose
+#### Other Content:
+[Code Academy: Migrate to Compose : YT Playlist](https://www.youtube.com/watch?v=BarlWza2QXY&list=PLMj-9x9aTqPq3dLyed3vKPn1p2zheenFD)
+[Code Academy: Migrating to Compose - ComposeView : Article](https://compose.academy/blog/migrating_to_compose_-_composeview)

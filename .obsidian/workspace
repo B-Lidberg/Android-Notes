@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jetpack Compose/Migration to Compose.md",
+            "file": "Jetpack Compose/Jetpack Compose.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jetpack Compose/Migration to Compose.md",
+                "file": "Jetpack Compose/Jetpack Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "f6d1391e16d2bcde",
   "lastOpenFiles": [
+    "Jetpack Compose/Jetpack Compose.md",
+    "Kotlin/Coroutines.md",
+    "Other/Figma.md",
+    "Fundamentals/Material Design Guidelines.md",
+    "Fundamentals/Fundamentals.md",
+    "Figma.md",
+    "Material Design Guidelines.md",
     "Jetpack Compose/Migration to Compose.md",
     "Jetpack Compose/Migration/ComposeView.md",
-    "Jetpack Compose/Migration/AbstractComposeView.md",
-    "Jetpack Compose/Migration/Untitled.md",
-    "Sources/Compose Academy.md",
-    "Sources/Fanny Demey.md",
-    "Sources/Source.md",
-    "Sources/Untitled.md",
-    "Jetpack Compose/Migration/Untitled 1.md",
-    "Jetpack Compose/Migration/RecyclerView in Compose.md"
+    "Jetpack Compose/Migration/AbstractComposeView.md"
   ]
 }

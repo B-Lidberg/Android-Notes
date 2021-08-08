@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d1391e16d2bcde",
+        "id": "b01f2ca4a92fdf37",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "Fundamentals/Fundamentals.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6679b8d8411e58b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TextField.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TextField.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6d1391e16d2bcde",
+  "active": "6679b8d8411e58b4",
   "lastOpenFiles": [
-    "README.md",
-    "Jetpack Compose/Migration/RecyclerView in Compose.md",
-    "Jetpack Compose/Composable.md",
+    "TextField.md",
     "Jetpack Compose/Text.md",
-    "Other/Git.md",
-    "Other/GitHub.md",
-    "Fundamentals/Version Control.md",
-    "Other/Github.md",
-    "Other/Untitled.md",
-    "Other/Figma.md"
+    "MVVM.md",
+    "Fundamentals/Fundamentals.md",
+    "Untitled.md",
+    "LiveData.md",
+    "ViewModel.md",
+    "README.md",
+    "Jetpack Compose/Jetpack Compose.md",
+    "Fundamentals/Version Control.md"
   ]
 }

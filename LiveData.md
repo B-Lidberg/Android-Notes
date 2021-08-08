@@ -1,0 +1,3 @@
+# LiveData
+
+**[LiveData](https://developer.android.com/topic/libraries/architecture/livedata)** is an observable data holder. Other components in your app can monitor changes to objects using this holder without creating explicit and rigid dependency paths between them. The LiveData component also respects the lifecycle state of your app's components—such as activities, fragments, and services—and includes cleanup logic to prevent object leaking and excessive memory consumption.

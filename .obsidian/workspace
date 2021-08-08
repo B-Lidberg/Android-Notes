@@ -4,49 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b01f2ca4a92fdf37",
+        "id": "5cb21dc25400a993",
         "type": "leaf",
-        "dimension": 42.24201930215293,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundamentals/Fundamentals.md",
+            "file": "Kotlin/Ktor.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6679b8d8411e58b4",
-        "type": "leaf",
-        "dimension": 28.878990348923534,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Jetpack Compose/TextField.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d548af2934dfe022",
-        "type": "leaf",
-        "dimension": 14.439495174461767,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Fundamentals/ViewModel.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5cde128409a19c2c",
-        "type": "leaf",
-        "dimension": 14.439495174461767,
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "media/graph.gif"
           }
         }
       }
@@ -104,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/graph.gif",
+                "file": "Kotlin/Ktor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cde128409a19c2c",
+  "active": "5cb21dc25400a993",
   "lastOpenFiles": [
+    "Kotlin/Untitled.md",
+    "Libraries/Untitled.md",
+    "Fundamentals/Material Design Guidelines.md",
+    "type inference.md",
+    "Kotlin/Kotlin.md",
+    "Fundamentals/MVVM.md",
+    "JVM.md",
+    "statically typed.md",
     "media/graph.gif",
-    "media/mvvm-architecture.png",
-    "Obsidian Reference.md",
-    "Popular Resources.md",
-    "Other/TextField.md",
-    "ViewModel.md",
-    "TextField.md",
-    "README.md",
-    "Fundamentals/Fundamentals.md",
-    "Jetpack Compose/Text.md"
+    "media/mvvm-architecture.png"
   ]
 }

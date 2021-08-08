@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/Git.md",
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#overview",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Git.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "f6d1391e16d2bcde",
   "lastOpenFiles": [
+    "README.md",
+    "Jetpack Compose/Migration/RecyclerView in Compose.md",
+    "Jetpack Compose/Composable.md",
+    "Jetpack Compose/Text.md",
     "Other/Git.md",
     "Other/GitHub.md",
     "Fundamentals/Version Control.md",
     "Other/Github.md",
     "Other/Untitled.md",
-    "Other/Figma.md",
-    "Fundamentals/Untitled.md",
-    "Jetpack Compose/Text.md",
-    "TextField.md",
-    "Untitled.md"
+    "Other/Figma.md"
   ]
 }

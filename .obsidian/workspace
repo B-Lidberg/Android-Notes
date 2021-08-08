@@ -7,10 +7,9 @@
         "id": "bc66b9ca253a414c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Testing/UI Tests.md",
-            "mode": "source"
+            "file": "media/graph.gif"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/UI Tests.md",
+                "file": "media/graph.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +98,8 @@
   },
   "active": "bc66b9ca253a414c",
   "lastOpenFiles": [
+    "media/graph.gif",
+    "media/mvvm-architecture.png",
     "Testing/UI Tests.md",
     "Jetpack Compose/Text.md",
     "Jetpack Compose/TextField.md",
@@ -106,8 +107,6 @@
     "Jetpack Compose/Migration/ComposeView vs AbstractComposeView.md",
     "Jetpack Compose/Migration/RecyclerView in Compose.md",
     "Jetpack Compose/Migration/ComposeView.md",
-    "Jetpack Compose/Migration/AbstractComposeView.md",
-    "Jetpack Compose/Jetpack Compose.md",
-    "Jetpack Compose/Compose Accessibility.md"
+    "Jetpack Compose/Migration/AbstractComposeView.md"
   ]
 }

@@ -24,7 +24,7 @@ Theres also a graph view for a great visualization seeing how everything connect
 
 Here is a great YouTube Playlist to get started with [**Obsidian**](https://www.youtube.com/watch?v=QgbLb6QCK88&list=RDCMUC85D7ERwhke7wVqskV_DZUA&index=1)
 
-<kbd>![Obsidian Graph](media/graph.mp4)</kbd>
+<kbd>![Obsidian Graph](media/graph.gif)</kbd>
 
 ---
 ### Section to be used in Obsidian #reference

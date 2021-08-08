@@ -10,3 +10,10 @@ You may have asked yourself how many tests should you write. As mentioned before
 -   **Statement coverage**: How many statements of each function have been executed?
 -   **Branch coverage**: Has each branch in an `if` or a `when` statement been executed?
 -   **Condition coverage**: Has each subcondition in an `if` statement been evaluated to `true` and also to `false`?
+
+
+### Coverage Tools
+- **JaCoCo** (Java Code Coverage Library) 
+	- This library generates a report for you to check which lines were covered by your tests (green) and which ones were not (red or yellow). _(Works with Kotlin)_
+- **Android Studio**
+	- comes with a **built-in feature** to run tests with Coverage.

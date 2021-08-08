@@ -1,0 +1,7 @@
+Every Android app has a User Interface (UI) with related testing. The tests on this layer check if the UI of your application works correctly. They usually test if the data is shown correctly to the user, if the UI reacts correctly when the user inputs something, etc. They are also called **large tests**.
+
+These tests emulate the user behavior and assert UI results. These are the slowest and most expensive tests you can write if you run them on a device or emulator. While these are helpful for testing your interactions on screen, you should limit your UI tests. As in the pyramid diagram, you should perform your tests with unit and integration tests as much as you can.
+
+On Android, a tool suggested by Google for UI testing is **[[Espresso]]**. You’ll write these kinds of test in later chapters. You could also use [[Robolectric]] (since version 4.0) for UI tests to run them without an emulator or a device. However, there are times that you need to run them on an emulator or device. These are called **Android instrumentation tests**.
+
+There’s another tool called **UI Automator**. Google recommends it only when you have to do cross-app functional UI testing across system and installed apps.

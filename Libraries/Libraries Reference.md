@@ -19,7 +19,7 @@
 
 ### [[Espresso]]
 
-### [[Roboeletric]]
+### [[Robolectric]]
 
 ### [[Firebase]]
 - [[Crashlytics]]

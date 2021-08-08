@@ -1,0 +1,3 @@
+# Robolectric
+
+Google, in its testing fundamentals documentation, also suggests **Robolectric** for local unit tests. Robolectric simulates the Android runtime, it allows you to test code that depends on the framework without using a device or emulator. This means that these tests run fast because they run using just the regular JVM of your computer, just like any other test that uses JUnit and Mockito. However, some may consider Robolectric as an integration testing tool, because it helps you test integrating with the Android framework.

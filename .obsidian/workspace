@@ -18,12 +18,35 @@
       {
         "id": "6679b8d8411e58b4",
         "type": "leaf",
-        "dimension": 57.75798069784707,
+        "dimension": 28.878990348923534,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Jetpack Compose/TextField.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d548af2934dfe022",
+        "type": "leaf",
+        "dimension": 14.439495174461767,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fundamentals/ViewModel.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5cde128409a19c2c",
+        "type": "leaf",
+        "dimension": 14.439495174461767,
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "media/graph.gif"
           }
         }
       }
@@ -81,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "media/graph.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6679b8d8411e58b4",
+  "active": "5cde128409a19c2c",
   "lastOpenFiles": [
+    "media/graph.gif",
+    "media/mvvm-architecture.png",
+    "Obsidian Reference.md",
+    "Popular Resources.md",
+    "Other/TextField.md",
+    "ViewModel.md",
+    "TextField.md",
     "README.md",
     "Fundamentals/Fundamentals.md",
-    "TextField.md",
-    "Jetpack Compose/Text.md",
-    "MVVM.md",
-    "Untitled.md",
-    "LiveData.md",
-    "ViewModel.md",
-    "Jetpack Compose/Jetpack Compose.md",
-    "Fundamentals/Version Control.md"
+    "Jetpack Compose/Text.md"
   ]
 }

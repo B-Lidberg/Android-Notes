@@ -6,6 +6,7 @@
       {
         "id": "b01f2ca4a92fdf37",
         "type": "leaf",
+        "dimension": 42.24201930215293,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,10 +18,11 @@
       {
         "id": "6679b8d8411e58b4",
         "type": "leaf",
+        "dimension": 57.75798069784707,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TextField.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TextField.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,14 +112,14 @@
   },
   "active": "6679b8d8411e58b4",
   "lastOpenFiles": [
+    "README.md",
+    "Fundamentals/Fundamentals.md",
     "TextField.md",
     "Jetpack Compose/Text.md",
     "MVVM.md",
-    "Fundamentals/Fundamentals.md",
     "Untitled.md",
     "LiveData.md",
     "ViewModel.md",
-    "README.md",
     "Jetpack Compose/Jetpack Compose.md",
     "Fundamentals/Version Control.md"
   ]

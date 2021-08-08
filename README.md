@@ -1,8 +1,8 @@
 # My Android Notes in Obsidian.md
 
-Welcome to my Android Notes. I'll be building this repository up overtime to contain resources and information built into the files for quick access. 
+Welcome to my Android Notes. I'll be building this repository up overtime to contain resources and information built into the files for quick access. I will be pushing my commits whenever I update my notes to keep it up-to-date
 
-If you have any resource you would like to add, feel free to create an issue or pull request. 
+If you have any resource you would like to add, feel free to create an issue, pull request, or contact me through a link on my profile. :)
 
 --- 
 ### Easy Access:

@@ -2,5 +2,5 @@
 ### Community + Help
 
 - [[StackOverflow]]
-- [[Github]]
+- [[GitHub]]
 - [[KotlinSlack]]

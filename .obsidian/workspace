@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jetpack Compose/Jetpack Compose.md",
-            "mode": "source"
+            "file": "Other/Git.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jetpack Compose/Jetpack Compose.md",
+                "file": "Other/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "f6d1391e16d2bcde",
   "lastOpenFiles": [
-    "Jetpack Compose/Jetpack Compose.md",
-    "Kotlin/Coroutines.md",
+    "Other/Git.md",
+    "Other/GitHub.md",
+    "Fundamentals/Version Control.md",
+    "Other/Github.md",
+    "Other/Untitled.md",
     "Other/Figma.md",
-    "Fundamentals/Material Design Guidelines.md",
-    "Fundamentals/Fundamentals.md",
-    "Figma.md",
-    "Material Design Guidelines.md",
-    "Jetpack Compose/Migration to Compose.md",
-    "Jetpack Compose/Migration/ComposeView.md",
-    "Jetpack Compose/Migration/AbstractComposeView.md"
+    "Fundamentals/Untitled.md",
+    "Jetpack Compose/Text.md",
+    "TextField.md",
+    "Untitled.md"
   ]
 }

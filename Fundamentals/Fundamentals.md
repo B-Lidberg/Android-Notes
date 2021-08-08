@@ -17,7 +17,7 @@
 
 ### [[Version Control]]
 - [[Git]]
-- [[Github]]
+- [[GitHub]]
 
 ### [[SDK]]
 

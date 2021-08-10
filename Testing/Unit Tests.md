@@ -6,6 +6,10 @@ The **System Under Test** (SUT) is one class and you focus only on it. All depen
 
 These tests are the fastest and least expensive tests you can write because they don’t require a device or emulator to run. They are also called **small tests**. 
 
+When you want to ensure that a class or method is working as intended in isolation — this means with no other dependent classes — you write unit tests.
+
+Every test has three phases: set up, assertion and teardown.
+
 
 ## Popular Libraries for Unit Testing
 - [[JUnit]]

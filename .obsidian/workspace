@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bc66b9ca253a414c",
+        "id": "756b8bdecf39e452",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "media/graph.gif"
+            "file": "SOLID.md",
+            "mode": "preview"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SOLID",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,11 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 189
+    "width": 204
   },
   "right": {
     "id": "a18af8f41ed9a68d",
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/graph.gif",
+                "file": "SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc66b9ca253a414c",
+  "active": "756b8bdecf39e452",
   "lastOpenFiles": [
-    "media/graph.gif",
-    "media/mvvm-architecture.png",
-    "Testing/UI Tests.md",
-    "Jetpack Compose/Text.md",
-    "Jetpack Compose/TextField.md",
-    "Jetpack Compose/Migration to Compose.md",
-    "Jetpack Compose/Migration/ComposeView vs AbstractComposeView.md",
-    "Jetpack Compose/Migration/RecyclerView in Compose.md",
-    "Jetpack Compose/Migration/ComposeView.md",
-    "Jetpack Compose/Migration/AbstractComposeView.md"
+    "SOLID.md",
+    "Testing/Designing Architecture for Testing.md",
+    "Fundamentals/MVVM.md",
+    "MVP.md",
+    "Fundamentals/Design Patterns.md",
+    "MVC.md",
+    "Fundamentals/Architecture.md",
+    "Fundamentals/Dependency Injection.md",
+    "design patterns.md",
+    "Architecture.md"
   ]
 }

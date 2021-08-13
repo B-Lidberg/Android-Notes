@@ -19,3 +19,4 @@
 ### Architectural design Patterns
 - **Model-View-Controller ([[MVC]])**
 - **Model-View-Presenter ([[MVP]])**
+- **Model-View-ViewModel ([[MVVM]])**
